@@ -1,3 +1,8 @@
+/*
+    JIRAYU CHAROENYOST
+    6609611790
+*/
+
 #include <stdio.h>
 #include <stdlib.h> // Required for dynamic memory allocation
 

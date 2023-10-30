@@ -1,6 +1,10 @@
+/*
+    JIRAYU CHAROENYOST
+    6609611790
+*/
+
 #include <stdio.h>
 
-// 1O1R2F2F3R3H3J4Y5I6A9L9O9E9E9WCC
 int main()
 {
     char inp[32], array1[2][17];
